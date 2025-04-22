@@ -1,0 +1,361 @@
+path;nama;suku;ekspresi;sudut;jarak;pencahayaan
+training\Batak\esra\aug1_esra_varian1.jpg;esra;Batak;Senyum;Rotasi 15;Jauh;Terang
+training\Batak\esra\aug1_esra_varian2.jpg;esra;Batak;Serius;Rotasi 15;Dekat;Redup
+training\Batak\esra\aug1_esra_varian3.jpg;esra;Batak;Terkejut;Rotasi 15;Sedang;Redup
+training\Batak\esra\aug1_esra_varian4.jpg;esra;Batak;Tertawa;Rotasi 15;Sedang;Terang
+training\Batak\esra\aug2_esra_varian1.jpg;esra;Batak;Senyum;Frontal;Jauh;Terang
+training\Batak\esra\aug2_esra_varian2.jpg;esra;Batak;Serius;Frontal;Dekat;Terang
+training\Batak\esra\aug2_esra_varian3.jpg;esra;Batak;Terkejut;Atas;Sedang;Terang
+training\Batak\esra\aug2_esra_varian4.jpg;esra;Batak;Tertawa;Bawah;Sedang;Terang
+training\Batak\esra\aug3_esra_varian1.jpg;esra;Batak;Senyum;Flipped;Jauh;Terang
+training\Batak\esra\aug3_esra_varian2.jpg;esra;Batak;Serius;Flipped;Dekat;Redup
+training\Batak\esra\aug3_esra_varian3.jpg;esra;Batak;Terkejut;Flipped;Sedang;Redup
+training\Batak\esra\aug3_esra_varian4.jpg;esra;Batak;Tertawa;Flipped;Sedang;Terang
+training\Batak\esra\aug4_esra_varian1.jpg;esra;Batak;Senyum;Frontal;Jauh;Gaussian Noise
+training\Batak\esra\aug4_esra_varian2.jpg;esra;Batak;Serius;Frontal;Dekat;Gaussian Noise
+training\Batak\esra\aug4_esra_varian3.jpg;esra;Batak;Terkejut;Atas;Sedang;Gaussian Noise
+training\Batak\esra\aug4_esra_varian4.jpg;esra;Batak;Tertawa;Bawah;Sedang;Gaussian Noise
+training\Batak\esra\esra_varian1.jpg;esra;Batak;Senyum;Frontal;Jauh;Terang
+training\Batak\esra\esra_varian2.jpg;esra;Batak;Serius;Frontal;Dekat;Redup
+training\Batak\esra\esra_varian3.jpg;esra;Batak;Terkejut;Atas;Sedang;Redup
+training\Batak\esra\esra_varian4.jpg;esra;Batak;Tertawa;Bawah;Sedang;Terang
+training\Batak\ester\aug1_ester_varian1.jpg;ester;Batak;Senyum;Rotasi 15;Jauh;Terang
+training\Batak\ester\aug1_ester_varian2.jpg;ester;Batak;Serius;Rotasi 15;Dekat;Redup
+training\Batak\ester\aug1_ester_varian3.jpg;ester;Batak;Terkejut;Rotasi 15;Sedang;Redup
+training\Batak\ester\aug1_ester_varian4.jpg;ester;Batak;Tertawa;Rotasi 15;Sedang;Terang
+training\Batak\ester\aug2_ester_varian1.jpg;ester;Batak;Senyum;Frontal;Jauh;Terang
+training\Batak\ester\aug2_ester_varian2.jpg;ester;Batak;Serius;Frontal;Dekat;Terang
+training\Batak\ester\aug2_ester_varian3.jpg;ester;Batak;Terkejut;Atas;Sedang;Terang
+training\Batak\ester\aug2_ester_varian4.jpg;ester;Batak;Tertawa;Bawah;Sedang;Terang
+training\Batak\ester\aug3_ester_varian1.jpg;ester;Batak;Senyum;Flipped;Jauh;Terang
+training\Batak\ester\aug3_ester_varian2.jpg;ester;Batak;Serius;Flipped;Dekat;Redup
+training\Batak\ester\aug3_ester_varian3.jpg;ester;Batak;Terkejut;Flipped;Sedang;Redup
+training\Batak\ester\aug3_ester_varian4.jpg;ester;Batak;Tertawa;Flipped;Sedang;Terang
+training\Batak\ester\aug4_ester_varian1.jpg;ester;Batak;Senyum;Frontal;Jauh;Gaussian Noise
+training\Batak\ester\aug4_ester_varian2.jpg;ester;Batak;Serius;Frontal;Dekat;Gaussian Noise
+training\Batak\ester\aug4_ester_varian3.jpg;ester;Batak;Terkejut;Atas;Sedang;Gaussian Noise
+training\Batak\ester\aug4_ester_varian4.jpg;ester;Batak;Tertawa;Bawah;Sedang;Gaussian Noise
+training\Batak\ester\ester_varian1.jpg;ester;Batak;Senyum;Frontal;Jauh;Terang
+training\Batak\ester\ester_varian2.jpg;ester;Batak;Serius;Frontal;Dekat;Redup
+training\Batak\ester\ester_varian3.jpg;ester;Batak;Terkejut;Atas;Sedang;Redup
+training\Batak\ester\ester_varian4.jpg;ester;Batak;Tertawa;Bawah;Sedang;Terang
+training\Batak\mawan\aug1_mawan_varian1.jpg;mawan;Batak;Senyum;Rotasi 15;Jauh;Terang
+training\Batak\mawan\aug1_mawan_varian2.jpg;mawan;Batak;Serius;Rotasi 15;Dekat;Redup
+training\Batak\mawan\aug1_mawan_varian3.jpg;mawan;Batak;Terkejut;Rotasi 15;Sedang;Redup
+training\Batak\mawan\aug1_mawan_varian4.jpg;mawan;Batak;Tertawa;Rotasi 15;Sedang;Terang
+training\Batak\mawan\aug2_mawan_varian1.jpg;mawan;Batak;Senyum;Frontal;Jauh;Terang
+training\Batak\mawan\aug2_mawan_varian2.jpg;mawan;Batak;Serius;Frontal;Dekat;Terang
+training\Batak\mawan\aug2_mawan_varian3.jpg;mawan;Batak;Terkejut;Atas;Sedang;Terang
+training\Batak\mawan\aug2_mawan_varian4.jpg;mawan;Batak;Tertawa;Bawah;Sedang;Terang
+training\Batak\mawan\aug3_mawan_varian1.jpg;mawan;Batak;Senyum;Flipped;Jauh;Terang
+training\Batak\mawan\aug3_mawan_varian2.jpg;mawan;Batak;Serius;Flipped;Dekat;Redup
+training\Batak\mawan\aug3_mawan_varian3.jpg;mawan;Batak;Terkejut;Flipped;Sedang;Redup
+training\Batak\mawan\aug3_mawan_varian4.jpg;mawan;Batak;Tertawa;Flipped;Sedang;Terang
+training\Batak\mawan\aug4_mawan_varian1.jpg;mawan;Batak;Senyum;Frontal;Jauh;Gaussian Noise
+training\Batak\mawan\aug4_mawan_varian2.jpg;mawan;Batak;Serius;Frontal;Dekat;Gaussian Noise
+training\Batak\mawan\aug4_mawan_varian3.jpg;mawan;Batak;Terkejut;Atas;Sedang;Gaussian Noise
+training\Batak\mawan\aug4_mawan_varian4.jpg;mawan;Batak;Tertawa;Bawah;Sedang;Gaussian Noise
+training\Batak\mawan\mawan_varian1.jpg;mawan;Batak;Senyum;Frontal;Jauh;Terang
+training\Batak\mawan\mawan_varian2.jpg;mawan;Batak;Serius;Frontal;Dekat;Redup
+training\Batak\mawan\mawan_varian3.jpg;mawan;Batak;Terkejut;Atas;Sedang;Redup
+training\Batak\mawan\mawan_varian4.jpg;mawan;Batak;Tertawa;Bawah;Sedang;Terang
+training\Cina\chanteez\aug1_chanteez_varian1.jpg;chanteez;Cina;Senyum;Rotasi 15;Jauh;Terang
+training\Cina\chanteez\aug1_chanteez_varian2.jpg;chanteez;Cina;Serius;Rotasi 15;Dekat;Redup
+training\Cina\chanteez\aug1_chanteez_varian3.jpg;chanteez;Cina;Terkejut;Rotasi 15;Sedang;Redup
+training\Cina\chanteez\aug1_chanteez_varian4.jpg;chanteez;Cina;Tertawa;Rotasi 15;Sedang;Terang
+training\Cina\chanteez\aug2_chanteez_varian1.jpg;chanteez;Cina;Senyum;Frontal;Jauh;Terang
+training\Cina\chanteez\aug2_chanteez_varian2.jpg;chanteez;Cina;Serius;Frontal;Dekat;Terang
+training\Cina\chanteez\aug2_chanteez_varian3.jpg;chanteez;Cina;Terkejut;Atas;Sedang;Terang
+training\Cina\chanteez\aug2_chanteez_varian4.jpg;chanteez;Cina;Tertawa;Bawah;Sedang;Terang
+training\Cina\chanteez\aug3_chanteez_varian1.jpg;chanteez;Cina;Senyum;Flipped;Jauh;Terang
+training\Cina\chanteez\aug3_chanteez_varian2.jpg;chanteez;Cina;Serius;Flipped;Dekat;Redup
+training\Cina\chanteez\aug3_chanteez_varian3.jpg;chanteez;Cina;Terkejut;Flipped;Sedang;Redup
+training\Cina\chanteez\aug3_chanteez_varian4.jpg;chanteez;Cina;Tertawa;Flipped;Sedang;Terang
+training\Cina\chanteez\aug4_chanteez_varian1.jpg;chanteez;Cina;Senyum;Frontal;Jauh;Gaussian Noise
+training\Cina\chanteez\aug4_chanteez_varian2.jpg;chanteez;Cina;Serius;Frontal;Dekat;Gaussian Noise
+training\Cina\chanteez\aug4_chanteez_varian3.jpg;chanteez;Cina;Terkejut;Atas;Sedang;Gaussian Noise
+training\Cina\chanteez\aug4_chanteez_varian4.jpg;chanteez;Cina;Tertawa;Bawah;Sedang;Gaussian Noise
+training\Cina\chanteez\chanteez_varian1.jpg;chanteez;Cina;Senyum;Frontal;Jauh;Terang
+training\Cina\chanteez\chanteez_varian2.jpg;chanteez;Cina;Serius;Frontal;Dekat;Redup
+training\Cina\chanteez\chanteez_varian3.jpg;chanteez;Cina;Terkejut;Atas;Sedang;Redup
+training\Cina\chanteez\chanteez_varian4.jpg;chanteez;Cina;Tertawa;Bawah;Sedang;Terang
+training\Cina\claudia\aug1_claudia_varian1.jpg;claudia;Cina;Senyum;Rotasi 15;Jauh;Terang
+training\Cina\claudia\aug1_claudia_varian2.jpg;claudia;Cina;Serius;Rotasi 15;Dekat;Redup
+training\Cina\claudia\aug1_claudia_varian3.jpg;claudia;Cina;Terkejut;Rotasi 15;Sedang;Redup
+training\Cina\claudia\aug1_claudia_varian4.jpg;claudia;Cina;Tertawa;Rotasi 15;Sedang;Terang
+training\Cina\claudia\aug2_claudia_varian1.jpg;claudia;Cina;Senyum;Frontal;Jauh;Terang
+training\Cina\claudia\aug2_claudia_varian2.jpg;claudia;Cina;Serius;Frontal;Dekat;Terang
+training\Cina\claudia\aug2_claudia_varian3.jpg;claudia;Cina;Terkejut;Atas;Sedang;Terang
+training\Cina\claudia\aug2_claudia_varian4.jpg;claudia;Cina;Tertawa;Bawah;Sedang;Terang
+training\Cina\claudia\aug3_claudia_varian1.jpg;claudia;Cina;Senyum;Flipped;Jauh;Terang
+training\Cina\claudia\aug3_claudia_varian2.jpg;claudia;Cina;Serius;Flipped;Dekat;Redup
+training\Cina\claudia\aug3_claudia_varian3.jpg;claudia;Cina;Terkejut;Flipped;Sedang;Redup
+training\Cina\claudia\aug3_claudia_varian4.jpg;claudia;Cina;Tertawa;Flipped;Sedang;Terang
+training\Cina\claudia\aug4_claudia_varian1.jpg;claudia;Cina;Senyum;Frontal;Jauh;Gaussian Noise
+training\Cina\claudia\aug4_claudia_varian2.jpg;claudia;Cina;Serius;Frontal;Dekat;Gaussian Noise
+training\Cina\claudia\aug4_claudia_varian3.jpg;claudia;Cina;Terkejut;Atas;Sedang;Gaussian Noise
+training\Cina\claudia\aug4_claudia_varian4.jpg;claudia;Cina;Tertawa;Bawah;Sedang;Gaussian Noise
+training\Cina\claudia\claudia_varian1.jpg;claudia;Cina;Senyum;Frontal;Jauh;Terang
+training\Cina\claudia\claudia_varian2.jpg;claudia;Cina;Serius;Frontal;Dekat;Redup
+training\Cina\claudia\claudia_varian3.jpg;claudia;Cina;Terkejut;Atas;Sedang;Redup
+training\Cina\claudia\claudia_varian4.jpg;claudia;Cina;Tertawa;Bawah;Sedang;Terang
+training\Cina\lim\aug1_lim_varian1.jpg;lim;Cina;Senyum;Rotasi 15;Jauh;Terang
+training\Cina\lim\aug1_lim_varian2.jpg;lim;Cina;Serius;Rotasi 15;Dekat;Redup
+training\Cina\lim\aug1_lim_varian3.jpg;lim;Cina;Terkejut;Rotasi 15;Sedang;Redup
+training\Cina\lim\aug1_lim_varian4.jpg;lim;Cina;Tertawa;Rotasi 15;Sedang;Terang
+training\Cina\lim\aug2_lim_varian1.jpg;lim;Cina;Senyum;Frontal;Jauh;Terang
+training\Cina\lim\aug2_lim_varian2.jpg;lim;Cina;Serius;Frontal;Dekat;Terang
+training\Cina\lim\aug2_lim_varian3.jpg;lim;Cina;Terkejut;Atas;Sedang;Terang
+training\Cina\lim\aug2_lim_varian4.jpg;lim;Cina;Tertawa;Bawah;Sedang;Terang
+training\Cina\lim\aug3_lim_varian1.jpg;lim;Cina;Senyum;Flipped;Jauh;Terang
+training\Cina\lim\aug3_lim_varian2.jpg;lim;Cina;Serius;Flipped;Dekat;Redup
+training\Cina\lim\aug3_lim_varian3.jpg;lim;Cina;Terkejut;Flipped;Sedang;Redup
+training\Cina\lim\aug3_lim_varian4.jpg;lim;Cina;Tertawa;Flipped;Sedang;Terang
+training\Cina\lim\aug4_lim_varian1.jpg;lim;Cina;Senyum;Frontal;Jauh;Gaussian Noise
+training\Cina\lim\aug4_lim_varian2.jpg;lim;Cina;Serius;Frontal;Dekat;Gaussian Noise
+training\Cina\lim\aug4_lim_varian3.jpg;lim;Cina;Terkejut;Atas;Sedang;Gaussian Noise
+training\Cina\lim\aug4_lim_varian4.jpg;lim;Cina;Tertawa;Bawah;Sedang;Gaussian Noise
+training\Cina\lim\lim_varian1.jpg;lim;Cina;Senyum;Frontal;Jauh;Terang
+training\Cina\lim\lim_varian2.jpg;lim;Cina;Serius;Frontal;Dekat;Redup
+training\Cina\lim\lim_varian3.jpg;lim;Cina;Terkejut;Atas;Sedang;Redup
+training\Cina\lim\lim_varian4.jpg;lim;Cina;Tertawa;Bawah;Sedang;Terang
+training\Jawa\efila\aug1_efila_varian1.jpg;efila;Jawa;Senyum;Rotasi 15;Jauh;Terang
+training\Jawa\efila\aug1_efila_varian2.jpg;efila;Jawa;Serius;Rotasi 15;Dekat;Redup
+training\Jawa\efila\aug1_efila_varian3.jpg;efila;Jawa;Terkejut;Rotasi 15;Sedang;Redup
+training\Jawa\efila\aug1_efila_varian4.jpg;efila;Jawa;Tertawa;Rotasi 15;Sedang;Terang
+training\Jawa\efila\aug2_efila_varian1.jpg;efila;Jawa;Senyum;Frontal;Jauh;Terang
+training\Jawa\efila\aug2_efila_varian2.jpg;efila;Jawa;Serius;Frontal;Dekat;Terang
+training\Jawa\efila\aug2_efila_varian3.jpg;efila;Jawa;Terkejut;Atas;Sedang;Terang
+training\Jawa\efila\aug2_efila_varian4.jpg;efila;Jawa;Tertawa;Bawah;Sedang;Terang
+training\Jawa\efila\aug3_efila_varian1.jpg;efila;Jawa;Senyum;Flipped;Jauh;Terang
+training\Jawa\efila\aug3_efila_varian2.jpg;efila;Jawa;Serius;Flipped;Dekat;Redup
+training\Jawa\efila\aug3_efila_varian3.jpg;efila;Jawa;Terkejut;Flipped;Sedang;Redup
+training\Jawa\efila\aug3_efila_varian4.jpg;efila;Jawa;Tertawa;Flipped;Sedang;Terang
+training\Jawa\efila\aug4_efila_varian1.jpg;efila;Jawa;Senyum;Frontal;Jauh;Gaussian Noise
+training\Jawa\efila\aug4_efila_varian2.jpg;efila;Jawa;Serius;Frontal;Dekat;Gaussian Noise
+training\Jawa\efila\aug4_efila_varian3.jpg;efila;Jawa;Terkejut;Atas;Sedang;Gaussian Noise
+training\Jawa\efila\aug4_efila_varian4.jpg;efila;Jawa;Tertawa;Bawah;Sedang;Gaussian Noise
+training\Jawa\efila\efila_varian1.jpg;efila;Jawa;Senyum;Frontal;Jauh;Terang
+training\Jawa\efila\efila_varian2.jpg;efila;Jawa;Serius;Frontal;Dekat;Redup
+training\Jawa\efila\efila_varian3.jpg;efila;Jawa;Terkejut;Atas;Sedang;Redup
+training\Jawa\efila\efila_varian4.jpg;efila;Jawa;Tertawa;Bawah;Sedang;Terang
+training\Jawa\kusnadi\aug1_kusnadi_varian1.jpg;kusnadi;Jawa;Senyum;Rotasi 15;Jauh;Terang
+training\Jawa\kusnadi\aug1_kusnadi_varian2.jpg;kusnadi;Jawa;Serius;Rotasi 15;Dekat;Redup
+training\Jawa\kusnadi\aug1_kusnadi_varian3.jpg;kusnadi;Jawa;Terkejut;Rotasi 15;Sedang;Redup
+training\Jawa\kusnadi\aug1_kusnadi_varian4.jpg;kusnadi;Jawa;Tertawa;Rotasi 15;Sedang;Terang
+training\Jawa\kusnadi\aug2_kusnadi_varian1.jpg;kusnadi;Jawa;Senyum;Frontal;Jauh;Terang
+training\Jawa\kusnadi\aug2_kusnadi_varian2.jpg;kusnadi;Jawa;Serius;Frontal;Dekat;Terang
+training\Jawa\kusnadi\aug2_kusnadi_varian3.jpg;kusnadi;Jawa;Terkejut;Atas;Sedang;Terang
+training\Jawa\kusnadi\aug2_kusnadi_varian4.jpg;kusnadi;Jawa;Tertawa;Bawah;Sedang;Terang
+training\Jawa\kusnadi\aug3_kusnadi_varian1.jpg;kusnadi;Jawa;Senyum;Flipped;Jauh;Terang
+training\Jawa\kusnadi\aug3_kusnadi_varian2.jpg;kusnadi;Jawa;Serius;Flipped;Dekat;Redup
+training\Jawa\kusnadi\aug3_kusnadi_varian3.jpg;kusnadi;Jawa;Terkejut;Flipped;Sedang;Redup
+training\Jawa\kusnadi\aug3_kusnadi_varian4.jpg;kusnadi;Jawa;Tertawa;Flipped;Sedang;Terang
+training\Jawa\kusnadi\aug4_kusnadi_varian1.jpg;kusnadi;Jawa;Senyum;Frontal;Jauh;Gaussian Noise
+training\Jawa\kusnadi\aug4_kusnadi_varian2.jpg;kusnadi;Jawa;Serius;Frontal;Dekat;Gaussian Noise
+training\Jawa\kusnadi\aug4_kusnadi_varian3.jpg;kusnadi;Jawa;Terkejut;Atas;Sedang;Gaussian Noise
+training\Jawa\kusnadi\aug4_kusnadi_varian4.jpg;kusnadi;Jawa;Tertawa;Bawah;Sedang;Gaussian Noise
+training\Jawa\kusnadi\kusnadi_varian1.jpg;kusnadi;Jawa;Senyum;Frontal;Jauh;Terang
+training\Jawa\kusnadi\kusnadi_varian2.jpg;kusnadi;Jawa;Serius;Frontal;Dekat;Redup
+training\Jawa\kusnadi\kusnadi_varian3.jpg;kusnadi;Jawa;Terkejut;Atas;Sedang;Redup
+training\Jawa\kusnadi\kusnadi_varian4.jpg;kusnadi;Jawa;Tertawa;Bawah;Sedang;Terang
+training\Jawa\meli\aug1_meli_varian1.jpg;meli;Jawa;Senyum;Rotasi 15;Jauh;Terang
+training\Jawa\meli\aug1_meli_varian2.jpg;meli;Jawa;Serius;Rotasi 15;Dekat;Redup
+training\Jawa\meli\aug1_meli_varian3.jpg;meli;Jawa;Terkejut;Rotasi 15;Sedang;Redup
+training\Jawa\meli\aug1_meli_varian4.jpg;meli;Jawa;Tertawa;Rotasi 15;Sedang;Terang
+training\Jawa\meli\aug2_meli_varian1.jpg;meli;Jawa;Senyum;Frontal;Jauh;Terang
+training\Jawa\meli\aug2_meli_varian2.jpg;meli;Jawa;Serius;Frontal;Dekat;Terang
+training\Jawa\meli\aug2_meli_varian3.jpg;meli;Jawa;Terkejut;Atas;Sedang;Terang
+training\Jawa\meli\aug2_meli_varian4.jpg;meli;Jawa;Tertawa;Bawah;Sedang;Terang
+training\Jawa\meli\aug3_meli_varian1.jpg;meli;Jawa;Senyum;Flipped;Jauh;Terang
+training\Jawa\meli\aug3_meli_varian2.jpg;meli;Jawa;Serius;Flipped;Dekat;Redup
+training\Jawa\meli\aug3_meli_varian3.jpg;meli;Jawa;Terkejut;Flipped;Sedang;Redup
+training\Jawa\meli\aug3_meli_varian4.jpg;meli;Jawa;Tertawa;Flipped;Sedang;Terang
+training\Jawa\meli\aug4_meli_varian1.jpg;meli;Jawa;Senyum;Frontal;Jauh;Gaussian Noise
+training\Jawa\meli\aug4_meli_varian2.jpg;meli;Jawa;Serius;Frontal;Dekat;Gaussian Noise
+training\Jawa\meli\aug4_meli_varian3.jpg;meli;Jawa;Terkejut;Atas;Sedang;Gaussian Noise
+training\Jawa\meli\aug4_meli_varian4.jpg;meli;Jawa;Tertawa;Bawah;Sedang;Gaussian Noise
+training\Jawa\meli\meli_varian1.jpg;meli;Jawa;Senyum;Frontal;Jauh;Terang
+training\Jawa\meli\meli_varian2.jpg;meli;Jawa;Serius;Frontal;Dekat;Redup
+training\Jawa\meli\meli_varian3.jpg;meli;Jawa;Terkejut;Atas;Sedang;Redup
+training\Jawa\meli\meli_varian4.jpg;meli;Jawa;Tertawa;Bawah;Sedang;Terang
+training\Palembang\jazim\aug1_jazim_varian1.jpg;jazim;Palembang;Senyum;Rotasi 15;Jauh;Terang
+training\Palembang\jazim\aug1_jazim_varian2.jpg;jazim;Palembang;Serius;Rotasi 15;Dekat;Redup
+training\Palembang\jazim\aug1_jazim_varian3.jpg;jazim;Palembang;Terkejut;Rotasi 15;Sedang;Redup
+training\Palembang\jazim\aug1_jazim_varian4.jpg;jazim;Palembang;Tertawa;Rotasi 15;Sedang;Terang
+training\Palembang\jazim\aug2_jazim_varian1.jpg;jazim;Palembang;Senyum;Frontal;Jauh;Terang
+training\Palembang\jazim\aug2_jazim_varian2.jpg;jazim;Palembang;Serius;Frontal;Dekat;Terang
+training\Palembang\jazim\aug2_jazim_varian3.jpg;jazim;Palembang;Terkejut;Atas;Sedang;Terang
+training\Palembang\jazim\aug2_jazim_varian4.jpg;jazim;Palembang;Tertawa;Bawah;Sedang;Terang
+training\Palembang\jazim\aug3_jazim_varian1.jpg;jazim;Palembang;Senyum;Flipped;Jauh;Terang
+training\Palembang\jazim\aug3_jazim_varian2.jpg;jazim;Palembang;Serius;Flipped;Dekat;Redup
+training\Palembang\jazim\aug3_jazim_varian3.jpg;jazim;Palembang;Terkejut;Flipped;Sedang;Redup
+training\Palembang\jazim\aug3_jazim_varian4.jpg;jazim;Palembang;Tertawa;Flipped;Sedang;Terang
+training\Palembang\jazim\aug4_jazim_varian1.jpg;jazim;Palembang;Senyum;Frontal;Jauh;Gaussian Noise
+training\Palembang\jazim\aug4_jazim_varian2.jpg;jazim;Palembang;Serius;Frontal;Dekat;Gaussian Noise
+training\Palembang\jazim\aug4_jazim_varian3.jpg;jazim;Palembang;Terkejut;Atas;Sedang;Gaussian Noise
+training\Palembang\jazim\aug4_jazim_varian4.jpg;jazim;Palembang;Tertawa;Bawah;Sedang;Gaussian Noise
+training\Palembang\jazim\jazim_varian1.jpg;jazim;Palembang;Senyum;Frontal;Jauh;Terang
+training\Palembang\jazim\jazim_varian2.jpg;jazim;Palembang;Serius;Frontal;Dekat;Redup
+training\Palembang\jazim\jazim_varian3.jpg;jazim;Palembang;Terkejut;Atas;Sedang;Redup
+training\Palembang\jazim\jazim_varian4.jpg;jazim;Palembang;Tertawa;Bawah;Sedang;Terang
+training\Palembang\mufida\aug1_mufida_varian1.jpg;mufida;Palembang;Senyum;Rotasi 15;Jauh;Terang
+training\Palembang\mufida\aug1_mufida_varian2.jpeg;mufida;Palembang;Serius;Rotasi 15;Dekat;Redup
+training\Palembang\mufida\aug1_mufida_varian3.jpg;mufida;Palembang;Terkejut;Rotasi 15;Sedang;Redup
+training\Palembang\mufida\aug1_mufida_varian4.jpg;mufida;Palembang;Tertawa;Rotasi 15;Sedang;Terang
+training\Palembang\mufida\aug2_mufida_varian1.jpg;mufida;Palembang;Senyum;Frontal;Jauh;Terang
+training\Palembang\mufida\aug2_mufida_varian2.jpeg;mufida;Palembang;Serius;Frontal;Dekat;Terang
+training\Palembang\mufida\aug2_mufida_varian3.jpg;mufida;Palembang;Terkejut;Atas;Sedang;Terang
+training\Palembang\mufida\aug2_mufida_varian4.jpg;mufida;Palembang;Tertawa;Bawah;Sedang;Terang
+training\Palembang\mufida\aug3_mufida_varian1.jpg;mufida;Palembang;Senyum;Flipped;Jauh;Terang
+training\Palembang\mufida\aug3_mufida_varian2.jpeg;mufida;Palembang;Serius;Flipped;Dekat;Redup
+training\Palembang\mufida\aug3_mufida_varian3.jpg;mufida;Palembang;Terkejut;Flipped;Sedang;Redup
+training\Palembang\mufida\aug3_mufida_varian4.jpg;mufida;Palembang;Tertawa;Flipped;Sedang;Terang
+training\Palembang\mufida\aug4_mufida_varian1.jpg;mufida;Palembang;Senyum;Frontal;Jauh;Gaussian Noise
+training\Palembang\mufida\aug4_mufida_varian2.jpeg;mufida;Palembang;Serius;Frontal;Dekat;Gaussian Noise
+training\Palembang\mufida\aug4_mufida_varian3.jpg;mufida;Palembang;Terkejut;Atas;Sedang;Gaussian Noise
+training\Palembang\mufida\aug4_mufida_varian4.jpg;mufida;Palembang;Tertawa;Bawah;Sedang;Gaussian Noise
+training\Palembang\mufida\mufida_varian1.jpg;mufida;Palembang;Senyum;Frontal;Jauh;Terang
+training\Palembang\mufida\mufida_varian2.jpeg;mufida;Palembang;Serius;Frontal;Dekat;Redup
+training\Palembang\mufida\mufida_varian3.jpg;mufida;Palembang;Terkejut;Atas;Sedang;Redup
+training\Palembang\mufida\mufida_varian4.jpg;mufida;Palembang;Tertawa;Bawah;Sedang;Terang
+training\Palembang\nadir\aug1_nadir_varian1.jpg;nadir;Palembang;Senyum;Rotasi 15;Jauh;Terang
+training\Palembang\nadir\aug1_nadir_varian2.jpg;nadir;Palembang;Serius;Rotasi 15;Dekat;Redup
+training\Palembang\nadir\aug1_nadir_varian3.jpg;nadir;Palembang;Terkejut;Rotasi 15;Sedang;Redup
+training\Palembang\nadir\aug1_nadir_varian4.jpg;nadir;Palembang;Tertawa;Rotasi 15;Sedang;Terang
+training\Palembang\nadir\aug2_nadir_varian1.jpg;nadir;Palembang;Senyum;Frontal;Jauh;Terang
+training\Palembang\nadir\aug2_nadir_varian2.jpg;nadir;Palembang;Serius;Frontal;Dekat;Terang
+training\Palembang\nadir\aug2_nadir_varian3.jpg;nadir;Palembang;Terkejut;Atas;Sedang;Terang
+training\Palembang\nadir\aug2_nadir_varian4.jpg;nadir;Palembang;Tertawa;Bawah;Sedang;Terang
+training\Palembang\nadir\aug3_nadir_varian1.jpg;nadir;Palembang;Senyum;Flipped;Jauh;Terang
+training\Palembang\nadir\aug3_nadir_varian2.jpg;nadir;Palembang;Serius;Flipped;Dekat;Redup
+training\Palembang\nadir\aug3_nadir_varian3.jpg;nadir;Palembang;Terkejut;Flipped;Sedang;Redup
+training\Palembang\nadir\aug3_nadir_varian4.jpg;nadir;Palembang;Tertawa;Flipped;Sedang;Terang
+training\Palembang\nadir\aug4_nadir_varian1.jpg;nadir;Palembang;Senyum;Frontal;Jauh;Gaussian Noise
+training\Palembang\nadir\aug4_nadir_varian2.jpg;nadir;Palembang;Serius;Frontal;Dekat;Gaussian Noise
+training\Palembang\nadir\aug4_nadir_varian3.jpg;nadir;Palembang;Terkejut;Atas;Sedang;Gaussian Noise
+training\Palembang\nadir\aug4_nadir_varian4.jpg;nadir;Palembang;Tertawa;Bawah;Sedang;Gaussian Noise
+training\Palembang\nadir\nadir_varian1.jpg;nadir;Palembang;Senyum;Frontal;Jauh;Terang
+training\Palembang\nadir\nadir_varian2.jpg;nadir;Palembang;Serius;Frontal;Dekat;Redup
+training\Palembang\nadir\nadir_varian3.jpg;nadir;Palembang;Terkejut;Atas;Sedang;Redup
+training\Palembang\nadir\nadir_varian4.jpg;nadir;Palembang;Tertawa;Bawah;Sedang;Terang
+training\Papua\lifni\aug1_lifni_varian1.png;lifni;Papua;Senyum;Rotasi 15;Jauh;Terang
+training\Papua\lifni\aug1_lifni_varian2.png;lifni;Papua;Serius;Rotasi 15;Dekat;Redup
+training\Papua\lifni\aug1_lifni_varian3.png;lifni;Papua;Terkejut;Rotasi 15;Sedang;Redup
+training\Papua\lifni\aug1_lifni_varian4.png;lifni;Papua;Tertawa;Rotasi 15;Sedang;Terang
+training\Papua\lifni\aug2_lifni_varian1.png;lifni;Papua;Senyum;Frontal;Jauh;Terang
+training\Papua\lifni\aug2_lifni_varian2.png;lifni;Papua;Serius;Frontal;Dekat;Terang
+training\Papua\lifni\aug2_lifni_varian3.png;lifni;Papua;Terkejut;Atas;Sedang;Terang
+training\Papua\lifni\aug2_lifni_varian4.png;lifni;Papua;Tertawa;Bawah;Sedang;Terang
+training\Papua\lifni\aug3_lifni_varian1.png;lifni;Papua;Senyum;Flipped;Jauh;Terang
+training\Papua\lifni\aug3_lifni_varian2.png;lifni;Papua;Serius;Flipped;Dekat;Redup
+training\Papua\lifni\aug3_lifni_varian3.png;lifni;Papua;Terkejut;Flipped;Sedang;Redup
+training\Papua\lifni\aug3_lifni_varian4.png;lifni;Papua;Tertawa;Flipped;Sedang;Terang
+training\Papua\lifni\aug4_lifni_varian1.png;lifni;Papua;Senyum;Frontal;Jauh;Gaussian Noise
+training\Papua\lifni\aug4_lifni_varian2.png;lifni;Papua;Serius;Frontal;Dekat;Gaussian Noise
+training\Papua\lifni\aug4_lifni_varian3.png;lifni;Papua;Terkejut;Atas;Sedang;Gaussian Noise
+training\Papua\lifni\aug4_lifni_varian4.png;lifni;Papua;Tertawa;Bawah;Sedang;Gaussian Noise
+training\Papua\lifni\lifni_varian1.png;lifni;Papua;Senyum;Frontal;Jauh;Terang
+training\Papua\lifni\lifni_varian2.png;lifni;Papua;Serius;Frontal;Dekat;Redup
+training\Papua\lifni\lifni_varian3.png;lifni;Papua;Terkejut;Atas;Sedang;Redup
+training\Papua\lifni\lifni_varian4.png;lifni;Papua;Tertawa;Bawah;Sedang;Terang
+training\Papua\nowela\aug1_nowela_varian1.png;nowela;Papua;Senyum;Rotasi 15;Jauh;Terang
+training\Papua\nowela\aug1_nowela_varian2.png;nowela;Papua;Serius;Rotasi 15;Dekat;Redup
+training\Papua\nowela\aug1_nowela_varian3.png;nowela;Papua;Terkejut;Rotasi 15;Sedang;Redup
+training\Papua\nowela\aug1_nowela_varian4.png;nowela;Papua;Tertawa;Rotasi 15;Sedang;Terang
+training\Papua\nowela\aug2_nowela_varian1.png;nowela;Papua;Senyum;Frontal;Jauh;Terang
+training\Papua\nowela\aug2_nowela_varian2.png;nowela;Papua;Serius;Frontal;Dekat;Terang
+training\Papua\nowela\aug2_nowela_varian3.png;nowela;Papua;Terkejut;Atas;Sedang;Terang
+training\Papua\nowela\aug2_nowela_varian4.png;nowela;Papua;Tertawa;Bawah;Sedang;Terang
+training\Papua\nowela\aug3_nowela_varian1.png;nowela;Papua;Senyum;Flipped;Jauh;Terang
+training\Papua\nowela\aug3_nowela_varian2.png;nowela;Papua;Serius;Flipped;Dekat;Redup
+training\Papua\nowela\aug3_nowela_varian3.png;nowela;Papua;Terkejut;Flipped;Sedang;Redup
+training\Papua\nowela\aug3_nowela_varian4.png;nowela;Papua;Tertawa;Flipped;Sedang;Terang
+training\Papua\nowela\aug4_nowela_varian1.png;nowela;Papua;Senyum;Frontal;Jauh;Gaussian Noise
+training\Papua\nowela\aug4_nowela_varian2.png;nowela;Papua;Serius;Frontal;Dekat;Gaussian Noise
+training\Papua\nowela\aug4_nowela_varian3.png;nowela;Papua;Terkejut;Atas;Sedang;Gaussian Noise
+training\Papua\nowela\aug4_nowela_varian4.png;nowela;Papua;Tertawa;Bawah;Sedang;Gaussian Noise
+training\Papua\nowela\nowela_varian1.png;nowela;Papua;Senyum;Frontal;Jauh;Terang
+training\Papua\nowela\nowela_varian2.png;nowela;Papua;Serius;Frontal;Dekat;Redup
+training\Papua\nowela\nowela_varian3.png;nowela;Papua;Terkejut;Atas;Sedang;Redup
+training\Papua\nowela\nowela_varian4.png;nowela;Papua;Tertawa;Bawah;Sedang;Terang
+training\Papua\subhan\aug1_subhan_varian1.jpg;subhan;Papua;Senyum;Rotasi 15;Jauh;Terang
+training\Papua\subhan\aug1_subhan_varian2.jpg;subhan;Papua;Serius;Rotasi 15;Dekat;Redup
+training\Papua\subhan\aug1_subhan_varian3.jpg;subhan;Papua;Terkejut;Rotasi 15;Sedang;Redup
+training\Papua\subhan\aug1_subhan_varian4.jpg;subhan;Papua;Tertawa;Rotasi 15;Sedang;Terang
+training\Papua\subhan\aug2_subhan_varian1.jpg;subhan;Papua;Senyum;Frontal;Jauh;Terang
+training\Papua\subhan\aug2_subhan_varian2.jpg;subhan;Papua;Serius;Frontal;Dekat;Terang
+training\Papua\subhan\aug2_subhan_varian3.jpg;subhan;Papua;Terkejut;Atas;Sedang;Terang
+training\Papua\subhan\aug2_subhan_varian4.jpg;subhan;Papua;Tertawa;Bawah;Sedang;Terang
+training\Papua\subhan\aug3_subhan_varian1.jpg;subhan;Papua;Senyum;Flipped;Jauh;Terang
+training\Papua\subhan\aug3_subhan_varian2.jpg;subhan;Papua;Serius;Flipped;Dekat;Redup
+training\Papua\subhan\aug3_subhan_varian3.jpg;subhan;Papua;Terkejut;Flipped;Sedang;Redup
+training\Papua\subhan\aug3_subhan_varian4.jpg;subhan;Papua;Tertawa;Flipped;Sedang;Terang
+training\Papua\subhan\aug4_subhan_varian1.jpg;subhan;Papua;Senyum;Frontal;Jauh;Gaussian Noise
+training\Papua\subhan\aug4_subhan_varian2.jpg;subhan;Papua;Serius;Frontal;Dekat;Gaussian Noise
+training\Papua\subhan\aug4_subhan_varian3.jpg;subhan;Papua;Terkejut;Atas;Sedang;Gaussian Noise
+training\Papua\subhan\aug4_subhan_varian4.jpg;subhan;Papua;Tertawa;Bawah;Sedang;Gaussian Noise
+training\Papua\subhan\subhan_varian1.jpg;subhan;Papua;Senyum;Frontal;Jauh;Terang
+training\Papua\subhan\subhan_varian2.jpg;subhan;Papua;Serius;Frontal;Dekat;Redup
+training\Papua\subhan\subhan_varian3.jpg;subhan;Papua;Terkejut;Atas;Sedang;Redup
+training\Papua\subhan\subhan_varian4.jpg;subhan;Papua;Tertawa;Bawah;Sedang;Terang
+training\Sunda\panji\aug1_panji_varian1.jpg;panji;Sunda;Senyum;Rotasi 15;Jauh;Terang
+training\Sunda\panji\aug1_panji_varian2.jpg;panji;Sunda;Serius;Rotasi 15;Dekat;Redup
+training\Sunda\panji\aug1_panji_varian3.jpg;panji;Sunda;Terkejut;Rotasi 15;Sedang;Redup
+training\Sunda\panji\aug1_panji_varian4.jpg;panji;Sunda;Tertawa;Rotasi 15;Sedang;Terang
+training\Sunda\panji\aug2_panji_varian1.jpg;panji;Sunda;Senyum;Frontal;Jauh;Terang
+training\Sunda\panji\aug2_panji_varian2.jpg;panji;Sunda;Serius;Frontal;Dekat;Terang
+training\Sunda\panji\aug2_panji_varian3.jpg;panji;Sunda;Terkejut;Atas;Sedang;Terang
+training\Sunda\panji\aug2_panji_varian4.jpg;panji;Sunda;Tertawa;Bawah;Sedang;Terang
+training\Sunda\panji\aug3_panji_varian1.jpg;panji;Sunda;Senyum;Flipped;Jauh;Terang
+training\Sunda\panji\aug3_panji_varian2.jpg;panji;Sunda;Serius;Flipped;Dekat;Redup
+training\Sunda\panji\aug3_panji_varian3.jpg;panji;Sunda;Terkejut;Flipped;Sedang;Redup
+training\Sunda\panji\aug3_panji_varian4.jpg;panji;Sunda;Tertawa;Flipped;Sedang;Terang
+training\Sunda\panji\aug4_panji_varian1.jpg;panji;Sunda;Senyum;Frontal;Jauh;Gaussian Noise
+training\Sunda\panji\aug4_panji_varian2.jpg;panji;Sunda;Serius;Frontal;Dekat;Gaussian Noise
+training\Sunda\panji\aug4_panji_varian3.jpg;panji;Sunda;Terkejut;Atas;Sedang;Gaussian Noise
+training\Sunda\panji\aug4_panji_varian4.jpg;panji;Sunda;Tertawa;Bawah;Sedang;Gaussian Noise
+training\Sunda\panji\panji_varian1.jpg;panji;Sunda;Senyum;Frontal;Jauh;Terang
+training\Sunda\panji\panji_varian2.jpg;panji;Sunda;Serius;Frontal;Dekat;Redup
+training\Sunda\panji\panji_varian3.jpg;panji;Sunda;Terkejut;Atas;Sedang;Redup
+training\Sunda\panji\panji_varian4.jpg;panji;Sunda;Tertawa;Bawah;Sedang;Terang
+training\Sunda\rina\aug1_rina_varian1.jpg;rina;Sunda;Senyum;Rotasi 15;Jauh;Terang
+training\Sunda\rina\aug1_rina_varian2.jpg;rina;Sunda;Serius;Rotasi 15;Dekat;Redup
+training\Sunda\rina\aug1_rina_varian3.jpg;rina;Sunda;Terkejut;Rotasi 15;Sedang;Redup
+training\Sunda\rina\aug1_rina_varian4.jpg;rina;Sunda;Tertawa;Rotasi 15;Sedang;Terang
+training\Sunda\rina\aug2_rina_varian1.jpg;rina;Sunda;Senyum;Frontal;Jauh;Terang
+training\Sunda\rina\aug2_rina_varian2.jpg;rina;Sunda;Serius;Frontal;Dekat;Terang
+training\Sunda\rina\aug2_rina_varian3.jpg;rina;Sunda;Terkejut;Atas;Sedang;Terang
+training\Sunda\rina\aug2_rina_varian4.jpg;rina;Sunda;Tertawa;Bawah;Sedang;Terang
+training\Sunda\rina\aug3_rina_varian1.jpg;rina;Sunda;Senyum;Flipped;Jauh;Terang
+training\Sunda\rina\aug3_rina_varian2.jpg;rina;Sunda;Serius;Flipped;Dekat;Redup
+training\Sunda\rina\aug3_rina_varian3.jpg;rina;Sunda;Terkejut;Flipped;Sedang;Redup
+training\Sunda\rina\aug3_rina_varian4.jpg;rina;Sunda;Tertawa;Flipped;Sedang;Terang
+training\Sunda\rina\aug4_rina_varian1.jpg;rina;Sunda;Senyum;Frontal;Jauh;Gaussian Noise
+training\Sunda\rina\aug4_rina_varian2.jpg;rina;Sunda;Serius;Frontal;Dekat;Gaussian Noise
+training\Sunda\rina\aug4_rina_varian3.jpg;rina;Sunda;Terkejut;Atas;Sedang;Gaussian Noise
+training\Sunda\rina\aug4_rina_varian4.jpg;rina;Sunda;Tertawa;Bawah;Sedang;Gaussian Noise
+training\Sunda\rina\rina_varian1.jpg;rina;Sunda;Senyum;Frontal;Jauh;Terang
+training\Sunda\rina\rina_varian2.jpg;rina;Sunda;Serius;Frontal;Dekat;Redup
+training\Sunda\rina\rina_varian3.jpg;rina;Sunda;Terkejut;Atas;Sedang;Redup
+training\Sunda\rina\rina_varian4.jpg;rina;Sunda;Tertawa;Bawah;Sedang;Terang
+training\Sunda\saneh\aug1_saneh_varian1.jpg;saneh;Sunda;Senyum;Rotasi 15;Jauh;Terang
+training\Sunda\saneh\aug1_saneh_varian2.jpg;saneh;Sunda;Serius;Rotasi 15;Dekat;Redup
+training\Sunda\saneh\aug1_saneh_varian3.jpg;saneh;Sunda;Terkejut;Rotasi 15;Sedang;Redup
+training\Sunda\saneh\aug1_saneh_varian4.jpg;saneh;Sunda;Tertawa;Rotasi 15;Sedang;Terang
+training\Sunda\saneh\aug2_saneh_varian1.jpg;saneh;Sunda;Senyum;Frontal;Jauh;Terang
+training\Sunda\saneh\aug2_saneh_varian2.jpg;saneh;Sunda;Serius;Frontal;Dekat;Terang
+training\Sunda\saneh\aug2_saneh_varian3.jpg;saneh;Sunda;Terkejut;Atas;Sedang;Terang
+training\Sunda\saneh\aug2_saneh_varian4.jpg;saneh;Sunda;Tertawa;Bawah;Sedang;Terang
+training\Sunda\saneh\aug3_saneh_varian1.jpg;saneh;Sunda;Senyum;Flipped;Jauh;Terang
+training\Sunda\saneh\aug3_saneh_varian2.jpg;saneh;Sunda;Serius;Flipped;Dekat;Redup
+training\Sunda\saneh\aug3_saneh_varian3.jpg;saneh;Sunda;Terkejut;Flipped;Sedang;Redup
+training\Sunda\saneh\aug3_saneh_varian4.jpg;saneh;Sunda;Tertawa;Flipped;Sedang;Terang
+training\Sunda\saneh\aug4_saneh_varian1.jpg;saneh;Sunda;Senyum;Frontal;Jauh;Gaussian Noise
+training\Sunda\saneh\aug4_saneh_varian2.jpg;saneh;Sunda;Serius;Frontal;Dekat;Gaussian Noise
+training\Sunda\saneh\aug4_saneh_varian3.jpg;saneh;Sunda;Terkejut;Atas;Sedang;Gaussian Noise
+training\Sunda\saneh\aug4_saneh_varian4.jpg;saneh;Sunda;Tertawa;Bawah;Sedang;Gaussian Noise
+training\Sunda\saneh\saneh_varian1.jpg;saneh;Sunda;Senyum;Frontal;Jauh;Terang
+training\Sunda\saneh\saneh_varian2.jpg;saneh;Sunda;Serius;Frontal;Dekat;Redup
+training\Sunda\saneh\saneh_varian3.jpg;saneh;Sunda;Terkejut;Atas;Sedang;Redup
+training\Sunda\saneh\saneh_varian4.jpg;saneh;Sunda;Tertawa;Bawah;Sedang;Terang
