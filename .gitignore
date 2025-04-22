@@ -1,1 +1,6 @@
+# Lingkungan Virtual
 env/
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
