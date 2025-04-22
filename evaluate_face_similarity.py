@@ -92,7 +92,7 @@ sns.heatmap(cm, annot=True, fmt='d')
 plt.title('Confusion Matrix Face Similarity')
 plt.xlabel('Predicted')
 plt.ylabel('True')
-plt.savefig('confusion_matrix.png')
+plt.savefig('confusion_matrix_facesimilarity.png')
 plt.close()
 
 # Hitung TAR, FAR, FRR
